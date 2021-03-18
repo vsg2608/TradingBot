@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\vsg26\\.conda\\envs\\Trading\\python.exe",
+    "python.linting.banditEnabled": true,
+    "python.autoComplete.addBrackets": true
+}

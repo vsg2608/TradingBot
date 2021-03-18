@@ -1,0 +1,43 @@
+{
+  "DOGEUSDT": {
+    "RSI_PERIOD": 14,
+    "RSI_PERIOD_5": 14,
+    "RSI_OVERBOUGHT": 65,
+    "RSI_OVERSOLD": 30,
+    "TRADE_SYMBOL": "DOGEUSDT",
+    "TRADE_COIN": "DOGE",
+    "TRADE_QUANTITY": 200,
+    "SOCKET": "wss://stream.binance.com:9443/ws/dogeusdt@kline_1m"
+  },
+  "XRPUSDT": {
+    "RSI_PERIOD": 14,
+    "RSI_PERIOD_5": 14,
+    "RSI_OVERBOUGHT": 65,
+    "RSI_OVERSOLD": 30,
+    "TRADE_SYMBOL": "XRPUSDT",
+    "TRADE_COIN": "XRP",
+    "TRADE_QUANTITY": 50,
+    "SOCKET": "wss://stream.binance.com:9443/ws/xrpusdt@kline_1m"
+  },
+  "ADAUSDT": {
+    "RSI_PERIOD": 14,
+    "RSI_PERIOD_5": 14,
+    "RSI_OVERBOUGHT": 65,
+    "RSI_OVERSOLD": 30,
+    "TRADE_SYMBOL": "ADAUSDT",
+    "TRADE_COIN": "ADA",
+    "TRADE_QUANTITY": 20,
+    "SOCKET": "wss://stream.binance.com:9443/ws/adausdt@kline_1m"
+  },
+  "ETHUSDT": {
+    "RSI_PERIOD": 14,
+    "RSI_PERIOD_5": 14,
+    "RSI_OVERBOUGHT": 65,
+    "RSI_OVERSOLD": 30,
+    "TRADE_SYMBOL": "ETHUSDT",
+    "TRADE_COIN": "ETH",
+    "TRADE_QUANTITY": 0.0065,
+    "SOCKET": "wss://stream.binance.com:9443/ws/ethusdt@kline_1m"
+  }
+  
+}
